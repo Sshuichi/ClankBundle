@@ -1,5 +1,5 @@
 {
-    "name": "sshuichi/clank-bundle",
+    "name": "jdare/clank-bundle",
     "type": "symfony-bundle",
     "description": "Symfony ClankBundle",
     "keywords": ["Web Socket Application"],
